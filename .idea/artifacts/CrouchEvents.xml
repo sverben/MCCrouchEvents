@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CrouchEvents">
+    <output-path>$USER_HOME$/Downloads/mctest/plugins</output-path>
+    <root id="archive" name="CrouchEvents.jar">
+      <element id="module-output" name="CrouchEvents" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+name: CrouchEvents
+main: nl.sverben.crouch
+version: "1.0"
+api-version: "1.16"
+
+commands:
+  event:
+    description: Choose the event
+    usage: /event <STRING>
